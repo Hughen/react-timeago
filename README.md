@@ -1,6 +1,10 @@
 ![React-TimeAgo](http://naman.s3.amazonaws.com/react-timeago.png)
 
-A simple time-ago component for ReactJs.
+A simple time-ago component for ReactJs. (React v16 Compatibility)
+
+## Changes in V3.5.0:
+
+- support `react@^v16`
 
 ## Changes in V3.X:
 
